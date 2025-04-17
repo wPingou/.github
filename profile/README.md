@@ -37,7 +37,7 @@ For any inquiries or further information, please contact our team at:
 
 - Email: contact@wpingou.org
 <!--- Twitter: [@wPingou](#)-->
-- LinkedIn: [wPingou](https://www.linkedin.com/company/wpingou/)
+<!---- LinkedIn: [wPingou](https://www.linkedin.com/company/wpingou/)-->
 
 ```
                                                                                                         
